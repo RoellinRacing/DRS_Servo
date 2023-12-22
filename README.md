@@ -42,7 +42,7 @@ Certainly! To load the code onto your Arduino Uno, you will need the Arduino IDE
 4. You should also install the `Wire` library, which is usually pre-installed.
 
 ### Uploading the Code
-1. Copy the [improved Arduino code](https://cpad.io/s/17d8f1be) and paste it into the Arduino IDE.
+1. Copy the code and paste it into the Arduino IDE.
 2. Select your Arduino board and port:
     - Go to `Tools` -> `Board` and choose `Arduino Uno`.
     - Go to `Tools` -> `Port` and select the port to which your Arduino is connected.
