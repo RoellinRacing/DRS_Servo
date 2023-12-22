@@ -3,6 +3,8 @@ DRS_System with Servos
 
 # @carbon_gtv  <- Donate for more content!
 
+See video of it working here:
+https://www.instagram.com/reel/CylktuAssMe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
 ### Parts List
 - 1x Arduino Uno
